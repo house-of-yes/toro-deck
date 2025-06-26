@@ -1,4 +1,9 @@
- > "Everything Is Alive on Planet Struggle."
+ 
+ ![Toro Deck Banner](./toro-banner.png)
+
+ 
+ 
+ >"Everything Is Alive on Planet Struggle."
 
 
 
