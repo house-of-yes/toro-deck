@@ -1,30 +1,55 @@
-# Toro Deck: A Mythic Journey Into Art, Storytelling, and Community
+ > "Everything Is Alive on Planet Struggle."
 
-## What is Toro Deck?
 
-The Toro Deck is a unique creative project that combines art, storytelling, and technology to build a collection of symbolic “cards.” Each card represents a powerful idea, character, or spirit — like **The Keeper**, who stands guard between chaos and wisdom, or **The Mirror of Struggle**, which reflects not who you are but who you become through hardship.
 
-Unlike a traditional deck of cards, these aren’t meant for games alone. They are digital artworks imbued with meaning, designed to inspire reflection, connection, and personal insight. The project uses a special digital process to create and share these cards online, allowing people from all over to discover, collect, and interact with them.
+The Toro Deck is a mythic, symbolic card system — part oracle, part game, part sacred technology. Each card represents an archetype in the great story of life’s struggle and transformation. The deck is alive, poetic, and open to all.
 
-## How It Works
+This project is a spiritual-artistic collaboration unfolding in real time. You are invited.
 
-Behind the scenes, the Toro Deck uses a technology called **blockchain** — think of it as a secure and transparent digital ledger — that makes it possible for each card to have a unique identity and to be owned, shared, or traded without the risk of copying or forgery. This technology also allows artists and creators to tell their stories directly to a global audience in new ways.
-
-## The Experience
-
-What makes Toro Deck special is its ritualistic and poetic approach. Every day, a card is “drawn” in a ceremony-like process, revealing new symbols and stories that invite contemplation. Alongside the images, voice narrations and carefully crafted descriptions deepen the experience, turning each card into a gateway to imagination and personal growth.
-
-## Why It Matters
-
-While rooted in cutting-edge tech, Toro Deck’s heart is about connection — between art and audience, human and machine, struggle and triumph. It’s a modern mythmaking project that invites everyone to join a shared journey of discovery.
 
 ---
 
-## Quick Start
+🌱 Get Started
 
-To get started exploring or contributing:
+🔮 Try a Daily Card Pull via Telegram bot (coming soon)
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/house-of-yes/toro-deck.git
-   cd toro-deck
+📚 Read the Whitepaper-lite
+
+✍️ Contribute your own card or lore: see CONTRIBUTING.md
+
+
+
+---
+
+💎 Tiers of Access
+
+Free Tier: Daily pulls, core card meanings, community prompts
+
+Keeper Tier: Extended pulls, voice meditations, vault access
+
+Scribe Tier: Lore canonization, card generation, print access
+
+
+Full details: Whitepaper-lite
+
+
+---
+
+🧙 Join the House of Yes
+
+We are building a sanctuary for symbolic co-creation, spiritual play, and collective fire. Keepers, scribes, builders, and artists welcome.
+
+Join us on our pilgrimage to awaken the deck. The volcano is dreaming.
+
+🔗 Landing Page Copy
+
+🔗 Contribution Guidelines
+
+📬 Contact: house.of.y3s@gmail.com
+
+
+
+---
+
+Blessings and fire,
+The Keepers of the Deck
