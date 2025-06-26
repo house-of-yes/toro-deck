@@ -2,7 +2,7 @@
 
 
 
-The Toro Deck is a mythic, symbolic card system — part oracle, part game, part sacred technology. Each card represents an archetype in the great story of life’s struggle and transformation. The deck is alive, poetic, and open to all.
+The Toro Deck is a mythic, symbolic card system — part oracle, part game, part sacred technology. Each card represents an archetype in the great story of life’s struggle and transformation. The deck is alive, poetic,a and open to all.
 
 This project is a spiritual-artistic collaboration unfolding in real time. You are invited.
 
