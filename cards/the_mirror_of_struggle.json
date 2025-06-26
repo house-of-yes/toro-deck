@@ -1,0 +1,13 @@
+ {
+  "name": "The Mirror of Struggle",
+  "symbol": "TORO",
+  "description": "The Mirror shows not who you are, but how you become. Cracked with the heat of battle, misted by doubt, it reflects the shape of your becoming — not your past. Those who gaze into it must look not at their face, but through it, into the flame beyond.",
+  "image": "https://arweave.net/xxx",
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Witness" },
+    { "trait_type": "Element", "value": "Fire + Water" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ],
+  "creator": "House of Yes",
+  "collection": "Toro Deck Genesis"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Keeper",
+  "symbol": "TORO",
+  "description": "She stands watch at the veil between chaos and wisdom, cloaked in fernlight and silence. The Keeper never forgets. She does not speak unless truth demands her voice.",
+  "image": "https://arweave.net/xxx",
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Guardian" },
+    { "trait_type": "Element", "value": "Earth" },
+    { "trait_type": "Rarity", "value": "Mythic" }
+  ],
+  "creator": "House of Yes",
+  "collection": "Toro Deck Genesis"
+}
