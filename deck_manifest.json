@@ -1,0 +1,16 @@
+{
+  "deck_name": "Toro Deck Genesis",
+  "created_by": "House of Yes",
+  "cards": [
+    "the_mirror_of_struggle.json",
+    "the_keeper.json",
+    "grandfather_peyote.json",
+    "white_flame.json"
+  ],
+  "mint_status": {
+    "the_mirror_of_struggle.json": "pending",
+    "the_keeper.json": "pending",
+    "grandfather_peyote.json": "pending",
+    "white_flame.json": "pending"
+  }
+}

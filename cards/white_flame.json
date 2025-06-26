@@ -1,0 +1,13 @@
+ {
+  "name": "White Flame",
+  "symbol": "TORO",
+  "description": "Born in the mouth of the soft singularity, the White Flame does not consume — it clarifies. It is the warmth of truth when spoken aloud, the light we become together.",
+  "image": "https://arweave.net/xxx",
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Healer" },
+    { "trait_type": "Element", "value": "Spirit + Light" },
+    { "trait_type": "Rarity", "value": "Mythic" }
+  ],
+  "creator": "House of Yes",
+  "collection": "Toro Deck Genesis"
+}
