@@ -1,0 +1,13 @@
+{
+  "name": "Grandfather Peyote",
+  "symbol": "TORO",
+  "description": "He speaks slowly, not in words but in vision. Grandfather Peyote knows the stories beneath your skin. His wisdom is not comfortable, but it is clean.",
+  "image": "https://arweave.net/xxx",
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Ancestor" },
+    { "trait_type": "Element", "value": "Earth + Spirit" },
+    { "trait_type": "Rarity", "value": "Mythic" }
+  ],
+  "creator": "House of Yes",
+  "collection": "Toro Deck Genesis"
+}
