@@ -13,7 +13,7 @@ This project is a spiritual-artistic collaboration unfolding in real time. You a
 ### 🌱 Get Started
 
 * 🔮 Try a **Daily Card Pull** via [Telegram bot](#) *(coming soon)*
-* 📚 Read the [Whitepaper-lite](./whitepaper-lite.md)
+* 📚 Read the [Whitepaper-lite](./toro-deck-litepaper.md)
 * ✍️ Contribute your own card or lore: see [CONTRIBUTING.md](./CONTRIBUTING.md)
 * 📊 View our [Metrics Plan](./metrics-plan.md) *(WIP)*
 
