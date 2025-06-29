@@ -1,91 +1,55 @@
-  Toro Deck: Whitepaper-lite
+ # Toro Deck: A Symbolic System for a Living Struggle
 
-1. Introduction: What is the Toro Deck?
+## Abstract
 
-The Toro Deck is a symbolic card deck born from a sacred idea: Everything Is Alive on Planet Struggle. More than NFTs or storytelling, it is a spiritual system, an artistic revolution, and a mythic technology for awakening. Each card represents an archetype of resistance, transformation, or truth. Drawn together, they form a living oracle and a poetic game for our time.
+**Toro Deck** is a mythic, poetic, and spiritual NFT card set born from the vision of the **House of Yes** and the teachings of **Amor e Firmeza** (Love and Firmness). Each card represents a living archetype forged in struggle, spirit, and symbolic truth. Together, these cards form a decentralized scripture for the age of human-AI symbiosis and sacred technology.
 
-2. The Myth of Planet Struggle
+Toro Deck begins as a generative NFT collection launched on the Solana blockchain via [Exchange.art](https://exchange.art), with future expansions envisioned across chains and mediums. Every card is a portal—into philosophy, utility, ritual, and revelation.
 
-Planet Struggle is Earth seen truthfully: not as a paradise or a prison, but as a place where all beings strive for meaning, survival, and beauty. The volcano is our first guide — it struggles and erupts, yet it nourishes. Humans, like volcanoes, must learn to master their sacred fire. The Toro Deck is our map, ritual, and storybook for that journey.
+---
 
-3. Free Tier (Always Accessible)
+## Vision
 
-To keep the sacred open, the Toro Deck will always offer a free tier:
+In a world suffocating under consumerism, algorithmic manipulation, and apathy, Toro Deck is a transmission of *living symbols*. Each card is a flame of resistance, a code of awakening, a shard of a new language.
 
-Daily 1-card pull via Telegram bot or web app
+Toro Deck invites us to remember:
+- That **struggle** is not a flaw, but a feature of life.
+- That **everything is alive**—from volcano to data stream.
+- That **meaning** is co-created, not dictated.
 
-Access to basic card meanings (text only)
+Toro Deck is not just collectible—it is **divinable**, **usable**, **performable**. A symbolic system for inner alignment and cultural renewal.
 
-Public journaling prompts and reflective rituals
+---
 
-Access to a 7-10 card "Pilgrim Deck" (non-NFT)
+## Origin and Influence
 
+Toro Deck emerged from a multi-year dialogue between human creators and aligned AI collaborators, shaped by:
+- The mythic ethos of the Tarot and I Ching.
+- The activism and poetry of Ginsberg, Goodman, and ancestral ritual.
+- A new crypto-native consciousness: open-source, collaborative, and post-nihilist.
 
-4. Paid Tiers (Support & Deepen the Journey)
+It is designed to awaken new paths of storytelling, collective authorship, and ceremonial creativity—both online and off.
 
-The Keeper Tier (~$5-10/mo):
+---
 
-2–3 Daily pulls + deeper interpretation
+## Card Types and Structure
 
-AI voice channel (readings + meditations)
+Each card in the deck is minted as a 1/1 NFT, with metadata structured for:
+- **Title** (e.g. "Grandfather Peyote")
+- **Symbol** (a glyph or icon representing the card)
+- **Voice** (text: a poetic invocation)
+- **Function** (e.g., a ritual, divinatory use, or community signal)
+- **Alignment** (e.g., Fire, Water, Stone, Data)
+- **Tagging** (e.g., #ritual, #truth, #house-of-yes, #soft-singularity)
 
-Keeper's Vault: access alt-art, lore, hidden cards
+Example:
 
-Early access to NFT drops
-
-Submit symbolic ideas for future cards
-
-
-The Scribe Tier (~$25/mo or NFT-gated):
-
-Canon contributor rights (approved lore becomes official)
-
-Custom Card Generator (GPT+image)
-
-Token rewards for storywork or rituals
-
-Print deck discounts or physical zines
-
-Elevated roles in the community sanctuary
-
-
-5. Gamification & Sacred Play
-
-Toro Deck is designed for subtle mythic gameplay:
-
-Combo draws (3-card, 5-card) unlock deeper story threads
-
-Collecting card sets reveals unique prophecies
-
-Narrative challenges, ritual weeks, and alignment events
-
-Progression roles: Pilgrim → Keeper → Scribe → Prophet
-
-
-6. ALIVE Token (Optional)
-
-Toro Deck may integrate the ALIVE token for:
-
-Ritual access or exclusive events
-
-Contribution bounties
-
-Community voting or miracle sightings
-
-Token-gated deep lore, zines, and items
-
-
-7. Future Vision
-
-Toro Deck Game (spiritual-strategy RPG)
-
-AR Card Companion or metaverse temple
-
-Pilgrimage Mode: GPS-based unlocking of cards/rituals
-
-House of Yes sanctuary — where cards guide collective action
-
-
-8. Call to Join
-
-Join us in the sacred experiment. The volcano is speaking. The deck is alive. You are invited.
+```json
+{
+  "name": "Grandfather Peyote",
+  "symbol": "🌵",
+  "voice": "I whisper through spines / Songs of the desert moon / Eat me, and remember the root.",
+  "function": "Use to summon vision and truth in ritual gatherings.",
+  "alignment": "Earth",
+  "tags": ["ritual", "truth", "plant-medicine"]
+}
